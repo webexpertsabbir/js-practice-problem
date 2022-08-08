@@ -12,5 +12,5 @@ function maxNmuber(numbers){
 }
 
 const heights = [126, 245, 30, 200, 300, 39];
-const talest = maxNmuber(heights);
-console.log(talest);
+const heightsNumber = maxNmuber(heights);
+console.log(heightsNumber);
